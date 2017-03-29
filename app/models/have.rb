@@ -1,2 +1,0 @@
-class Have < Ownership
-end
